@@ -30,7 +30,7 @@ This web app was built using React App and allows users to search for robot frie
 
 ## Authors
 
-- Your Name Here
+- Anand Dixit
 
 ## Acknowledgements
 
